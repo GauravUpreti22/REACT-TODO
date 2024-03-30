@@ -12,7 +12,7 @@ This is a simple to-do list application built using React and Redux.
 1. Clone the repository to your local machine:
 
    bash
-   git clone https://github.com/your-username/react-redux-todo.git
+   git clone https://github.com/GauravUpreti22/REACT-TODO/blob/main/README.md
    
 
 2. Navigate to the project directory:
